@@ -8,11 +8,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Projet Vide',
+      title: 'Encyclopedie',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: Scaffold(body: Text('Projet Vide')),
+      home: Scaffold(body: Text('Encyclopedie')),
     );
   }
 }
