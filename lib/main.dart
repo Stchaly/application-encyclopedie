@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 //git remote add origin https://github.com/Stchaly/application-encyclopedie.git
 //git branch -M main
 //git clone https://github.com/Stchaly/application-encyclopedie.git
+//git push -u origin main
 void main() {
   runApp(MyApp());
 }
